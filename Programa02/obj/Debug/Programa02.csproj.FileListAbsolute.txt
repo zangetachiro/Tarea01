@@ -1,0 +1,6 @@
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa02\bin\Debug\Programa02.exe.config
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa02\bin\Debug\Programa02.exe
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa02\bin\Debug\Programa02.pdb
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa02\obj\Debug\Programa02.csproj.CoreCompileInputs.cache
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa02\obj\Debug\Programa02.exe
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa02\obj\Debug\Programa02.pdb
