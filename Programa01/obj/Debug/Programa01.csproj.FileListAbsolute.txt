@@ -1,0 +1,7 @@
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa01\bin\Debug\Programa01.exe.config
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa01\bin\Debug\Programa01.exe
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa01\bin\Debug\Programa01.pdb
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa01\obj\Debug\Programa01.csprojResolveAssemblyReference.cache
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa01\obj\Debug\Programa01.csproj.CoreCompileInputs.cache
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa01\obj\Debug\Programa01.exe
+C:\Users\SergioJonathan\source\repos\Tarea01\Programa01\obj\Debug\Programa01.pdb
